@@ -22,9 +22,7 @@ Soy un estudiante de Tecnología en Desarrollo de Software con una fuerte pasió
 Objetivo
 
 Mi objetivo es convertirme en Arquitecto de Software. Estoy comprometido a aprender y dominar los principios de diseño de software, así como las mejores prácticas en el desarrollo de aplicaciones robustas y escalables.
-
 <br>
-
 - 👩‍💻Actualmente aprendiendo 
 
   * HTML
@@ -42,11 +40,7 @@ Mi objetivo es convertirme en Arquitecto de Software. Estoy comprometido a apren
 - 📱Contacto 
 
    Puedes contactarme a través de mi correo: [Correo Electrónico](mailto:sebastiancaballero811@gmail.com) o seguirme en [LinkedIn/portafolio](enlace_a_tu_linkedin_o_portafolio).
-
-    
-
 <br><br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
