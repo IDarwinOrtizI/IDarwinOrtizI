@@ -3,8 +3,9 @@
 <!--  -->
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%2300A86B&size=28&center=true&vCenter=true&width=700&height=80&lines=✨+¡Hola+y+bienvenido!+💚;🚀+Desarrollador+Front-End+Autodidacta;🎓+Estudiante+de+Ciencias;🔓+Principiante+en+CTF;📖+Aprendiz+activo+y+curioso;💡+Me+encanta+aprender+nuevas+cosas!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%2300A86B&size=28&center=true&vCenter=true&width=700&height=80&lines=✨+¡Hola+y+bienvenido!+💚;🚀+Desarrollador+Backend;🎓+Apasionado+por+la+arquitectura+de+software;🔍+Optimización+y+rendimiento;📖+Aprendiz+activo+y+curioso;💡+Me+encanta+resolver+problemas+complejos!">
 </a>
+
 
 </p>
 
