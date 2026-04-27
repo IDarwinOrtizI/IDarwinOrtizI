@@ -62,7 +62,7 @@ Tengo experiencia construyendo aplicaciones web completas utilizando **Spring Bo
 **Desarrollador Full Stack**
 
 - Sistema dinámico de interacción (contador en tiempo real)
-- Backend desplegado (≈99% disponibilidad)
+- Actualizacion de la sopa de letras desde la base de datos 
 - Optimización de rendimiento y carga (~25%)
 
 ---
